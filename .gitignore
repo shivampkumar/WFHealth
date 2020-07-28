@@ -1,0 +1,9 @@
+node_modules/
+ffmpeg/
+frames/
+health.webm
+env/
+.vscode/
+convert.py
+uploads/
+helper.txt
